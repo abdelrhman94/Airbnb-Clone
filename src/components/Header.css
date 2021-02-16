@@ -29,7 +29,7 @@
 .header__center > input {
   border: none;
   width: 250px;
-  outline: none;
+  outline-width: 0;
   padding: 10px;
 }
 
