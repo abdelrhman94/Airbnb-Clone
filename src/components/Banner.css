@@ -7,9 +7,12 @@
 
 .banner__info {
   background-color: black;
-  color: #fff;
-  padding: 140px 50px 40px 50px;
-  width: 300px;
+    color: white;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 300px;
 }
 
 .banner__searchButton {
